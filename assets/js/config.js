@@ -22,7 +22,7 @@ window.VOC_CONFIG = {
 // SETUP-GUIDE.md for the suggested SharePoint list + email setup.
 // ============================================================
 window.STATIONERY_CONFIG = {
-  submitUrl: "https://default7bf668ccdb6040b8ba089102336e87.a3.environment.api.powerplatform.com:443/powerautomate/automations/direct/cu/21/workflows/0f8f24a9e01d45a88b1f39ba0b8be87f/triggers/manual/paths/invoke?api-version=1",
+  submitUrl: "https://default7bf668ccdb6040b8ba089102336e87.a3.environment.api.powerplatform.com:443/powerautomate/automations/direct/cu/21/workflows/0f8f24a9e01d45a88b1f39ba0b8be87f/triggers/manual/paths/invoke?api-version=1&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=uvGIdrlKwubVZxUyObqkS6SLUDrmWdk66pdDVzGeZKM",
   companyName: "Besteel Frames",
   logoUrl: "assets/img/besteel-icon.png"
 };
